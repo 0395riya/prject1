@@ -1,0 +1,7 @@
+console.log("hiiii")
+console.log("buyyyy ")
+console.log("buyyyy ")
+console.log("buyyyy ")
+console.log("   jkjkkkkk   ")
+console.log("   jkjkkkkk   ")
+console.log("hiiii")
